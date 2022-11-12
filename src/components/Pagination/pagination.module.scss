@@ -1,0 +1,59 @@
+.pagination {
+   
+    display: flex;
+   justify-content: center;
+}
+
+.activeLink {
+    position: relative;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 6px;
+    letter-spacing: 1.33333px;
+    color: #55699E;
+    @media screen and(min-width:1440px) {
+        font-size: 20.8px;
+        line-height: 25px;
+    }
+    
+        &::after{
+            display: block;
+            position: absolute;
+            content: "";
+            width: 5px;
+            height: 1px;
+            border: 1px solid #55699E;
+            background: #55699E;
+            border-radius: 1px;
+            top: 25px;
+            left: 0px;
+            @media screen and (min-width:1440px) {
+                top:37px;
+                width:8px;
+            }
+    
+    
+
+    }
+  }
+.link {
+   
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 1.33333px;
+    margin-right: 6px;
+     color: rgba(56, 65, 93, 0.602109);
+    @media screen and(min-width:1440px) {
+        font-size: 20.8px;
+        line-height: 25px;
+    }
+   
+  }
+  
+  
