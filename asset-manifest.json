@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aleanlabb/static/css/main.069faa9f.css",
+    "main.js": "/aleanlabb/static/js/main.8be789e7.js",
+    "static/media/Hospital image.jpg": "/aleanlabb/static/media/Hospital image.e5fc652e74ab3ce4451a.jpg",
+    "static/media/slick.svg": "/aleanlabb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/aleanlabb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/aleanlabb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/aleanlabb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/aleanlabb/index.html",
+    "main.069faa9f.css.map": "/aleanlabb/static/css/main.069faa9f.css.map",
+    "main.8be789e7.js.map": "/aleanlabb/static/js/main.8be789e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.069faa9f.css",
+    "static/js/main.8be789e7.js"
+  ]
+}
